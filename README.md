@@ -23,18 +23,6 @@ The goal of this project is to build a robust text classification model capable 
 
 ---
 
-## 📂 Dataset
-
-The dataset contains news articles with the following features:
-
-* `id`
-* `title`
-* `author`
-* `text`
-* `label` (0 = Real, 1 = Fake)
-
----
-
 ## 🔄 Project Pipeline
 
 Raw News Data
